@@ -1,0 +1,10 @@
+C:\Users\Danton\Desktop\keylog app cs\keylog\keylog\bin\Debug\keylog.exe.config
+C:\Users\Danton\Desktop\keylog app cs\keylog\keylog\bin\Debug\keylog.exe
+C:\Users\Danton\Desktop\keylog app cs\keylog\keylog\bin\Debug\keylog.pdb
+C:\Users\Danton\Desktop\keylog app cs\keylog\keylog\obj\Debug\keylog.csprojAssemblyReference.cache
+C:\Users\Danton\Desktop\keylog app cs\keylog\keylog\obj\Debug\keylog.KeyLogForm.resources
+C:\Users\Danton\Desktop\keylog app cs\keylog\keylog\obj\Debug\keylog.Properties.Resources.resources
+C:\Users\Danton\Desktop\keylog app cs\keylog\keylog\obj\Debug\keylog.csproj.GenerateResource.cache
+C:\Users\Danton\Desktop\keylog app cs\keylog\keylog\obj\Debug\keylog.csproj.CoreCompileInputs.cache
+C:\Users\Danton\Desktop\keylog app cs\keylog\keylog\obj\Debug\keylog.exe
+C:\Users\Danton\Desktop\keylog app cs\keylog\keylog\obj\Debug\keylog.pdb
